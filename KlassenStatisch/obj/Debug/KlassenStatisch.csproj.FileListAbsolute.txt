@@ -1,0 +1,10 @@
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\bin\Debug\KlassenStatisch.exe.config
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\bin\Debug\KlassenStatisch.exe
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\bin\Debug\KlassenStatisch.pdb
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.Form1.resources
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.Properties.Resources.resources
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.exe
+C:\Users\andre\OneDrive\Datastore\Projects\Einstieg_in_C_Sharp\KlassenStatisch\KlassenStatisch\obj\Debug\KlassenStatisch.pdb
